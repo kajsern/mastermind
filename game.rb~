@@ -1,0 +1,10 @@
+class Game
+  def initialize
+    make random number choices
+    @secret = choice
+  end
+  def check(input)
+    return check if input matches current state
+  end
+  
+end
